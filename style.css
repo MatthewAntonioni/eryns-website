@@ -19,8 +19,7 @@ align-items: center;
 
 .btn{
 
-width: 200px;
-height: 140px;
+    transform:scale(3) ;
 
 }
 
