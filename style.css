@@ -19,7 +19,15 @@ align-items: center;
 
 .btn{
 
-    transform:scale(3) ;
+   .btn {
+  padding: 16px 32px;      /* makes them bigger */
+  font-size: 1.2rem;       /* bigger text */
+  background-color: pink;  /* pink background */
+  color: black;
+  border: 2px solid black; /* black outline */
+  border-radius: 10px;     /* optional: rounded corners */
+  cursor: pointer;
+}
 
 }
 
