@@ -1,11 +1,18 @@
 body{
 
-text-align: center;
+
 margin: 0;
 height: 100vh;
 display: felx;
 justify-content: center;
 align-items: center;
+
+
+}
+
+.center{
+
+    text-align: center;
 
 }
 
