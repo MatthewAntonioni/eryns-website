@@ -1,9 +1,10 @@
 body{
 
 text-align: center;
-background-color: blueviolet;
-margin-top: 3000x;
-
+margin: 0;
+height: 100vh;
+display: felx;
+justify-content: center;
 
 }
 
