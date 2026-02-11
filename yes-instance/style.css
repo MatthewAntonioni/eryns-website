@@ -1,6 +1,9 @@
 html{
 
     background-image: url("Untitled.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
