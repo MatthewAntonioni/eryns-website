@@ -1,9 +1,19 @@
 body{
 
-text-align: center;
-background-color: blueviolet;
-margin-top: 30px;
+
+margin: 0;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
 
 
+
+}
+
+.center{
+
+    text-align: center;
+    transform: translateY(-80px); 
 }
 
