@@ -17,3 +17,20 @@ align-items: center;
     transform: translateY(-80px); 
 }
 
+.btn{
+
+
+.btn {
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-family: inherit;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+
+
+}
+
